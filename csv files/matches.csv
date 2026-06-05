@@ -1,0 +1,13 @@
+id,title,tournament_name,venue,match_date,team_1_id,team_2_id,toss_winner_id,toss_decision,status,stream_url
+1,Match 1: INDI vs BHOP,Khel AI Champions Trophy 2026,Holkar Cricket Stadium,2026-07-01,1,2,1,bat,completed,https://khel-ai.example.com/streams/match-1
+2,Match 2: INDI vs UJJ,Khel AI Champions Trophy 2026,BHEL Sports Complex,2026-07-02,1,3,3,bat,completed,https://khel-ai.example.com/streams/match-2
+3,Match 3: INDI vs GWAL,Khel AI Champions Trophy 2026,Mahananda Nagar Ground,2026-07-03,1,4,4,bat,completed,https://khel-ai.example.com/streams/match-3
+4,Match 4: BHOP vs UJJ,Khel AI Champions Trophy 2026,Captain Roop Singh Stadium,2026-07-04,2,3,2,bat,completed,https://khel-ai.example.com/streams/match-4
+5,Match 5: BHOP vs GWAL,Khel AI Champions Trophy 2026,Holkar Cricket Stadium,2026-07-05,2,4,2,bowl,completed,https://khel-ai.example.com/streams/match-5
+6,Match 6: UJJ vs GWAL,Khel AI Champions Trophy 2026,BHEL Sports Complex,2026-07-06,3,4,4,bat,completed,https://khel-ai.example.com/streams/match-6
+7,Match 7: BHOP vs INDI,Khel AI Champions Trophy 2026,Mahananda Nagar Ground,2026-07-07,2,1,1,bowl,completed,https://khel-ai.example.com/streams/match-7
+8,Match 8: UJJ vs INDI,Khel AI Champions Trophy 2026,Captain Roop Singh Stadium,2026-07-08,3,1,3,bowl,completed,https://khel-ai.example.com/streams/match-8
+9,Match 9: GWAL vs INDI,Khel AI Champions Trophy 2026,Holkar Cricket Stadium,2026-07-09,4,1,1,bowl,completed,https://khel-ai.example.com/streams/match-9
+10,Match 10: UJJ vs BHOP,Khel AI Champions Trophy 2026,BHEL Sports Complex,2026-07-10,3,2,2,bowl,completed,https://khel-ai.example.com/streams/match-10
+11,Match 11: GWAL vs BHOP,Khel AI Champions Trophy 2026,Mahananda Nagar Ground,2026-07-11,4,2,2,bat,completed,https://khel-ai.example.com/streams/match-11
+12,Match 12: GWAL vs UJJ,Khel AI Champions Trophy 2026,Captain Roop Singh Stadium,2026-07-12,4,3,4,bowl,completed,https://khel-ai.example.com/streams/match-12

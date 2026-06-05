@@ -1,0 +1,17 @@
+{
+  "teams.csv": "Django Team master data.",
+  "players.csv": "Django Player master data, one row per squad member.",
+  "matches.csv": "Django Match rows for the 12 double round-robin fixtures.",
+  "innings.csv": "Django Innings rows, two innings per match.",
+  "ball_events.csv": "Django BallEvent rows with legal/illegal delivery handling and shot metadata.",
+  "live_infographic_cards.csv": "Django LiveInfographicCard rows with JSON payload fields serialized as strings.",
+  "player_attributes.csv": "Synthetic skill ratings used for simulation and ML features.",
+  "lineups.csv": "Playing XI and batting order per innings.",
+  "innings_scoreboard.csv": "Innings-level totals derived from ball_events.csv.",
+  "batting_scorecards.csv": "Batter scorecards derived from ball_events.csv.",
+  "bowling_scorecards.csv": "Bowling figures derived from ball_events.csv.",
+  "match_results.csv": "Result summaries derived from innings_scoreboard.csv.",
+  "team_standings.csv": "Tournament table derived from match_results.csv.",
+  "player_match_features.csv": "Model training data for player-level predictions.",
+  "ball_training_features.csv": "Model training data for ball-level predictions."
+}

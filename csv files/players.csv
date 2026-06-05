@@ -1,0 +1,61 @@
+id,team_id,name,jersey_number,batting_hand,bowling_style
+1,1,Aarav Sharma,7,Right,None
+2,1,Vivaan Rao,18,Left,None
+3,1,Kabir Mehta,45,Right,Right-arm medium
+4,1,Rudra Sethi,12,Right,None
+5,1,Ishaan Malhotra,23,Left,Left-arm orthodox
+6,1,Devansh Kulkarni,30,Right,None
+7,1,Reyansh Jain,64,Right,Right-arm fast
+8,1,Arjun Nair,91,Right,Leg spin
+9,1,Samar Chawla,55,Left,Left-arm fast
+10,1,Yash Bhandari,4,Right,Off spin
+11,1,Nirvaan Kapoor,17,Left,None
+12,1,Rohan Saxena,21,Right,Right-arm medium
+13,1,Krish Vyas,33,Right,None
+14,1,Advait Tiwari,71,Right,Right-arm fast
+15,1,Manan Gaur,8,Left,None
+16,2,Shaurya Verma,9,Right,None
+17,2,Advik Agarwal,16,Right,None
+18,2,Yug Sahay,27,Left,Left-arm orthodox
+19,2,Tanush Chaturvedi,10,Right,None
+20,2,Aryan Mathur,44,Right,Right-arm medium
+21,2,Kiaan Bansal,6,Left,None
+22,2,Naman Bhargava,81,Right,Right-arm fast
+23,2,Vedant Soni,5,Right,Leg spin
+24,2,Harshil Purohit,39,Left,Left-arm fast
+25,2,Omkar Mishra,99,Right,Off spin
+26,2,Lakshya Goyal,32,Right,None
+27,2,Pranav Joshi,26,Left,None
+28,2,Kunal Arora,14,Right,Right-arm medium
+29,2,Abeer Khan,73,Left,Left-arm fast
+30,2,Ritvik Sen,2,Right,None
+31,3,Dhruv Patel,11,Right,None
+32,3,Vihaan Trivedi,24,Left,None
+33,3,Atharv Deshmukh,34,Right,Right-arm medium
+34,3,Moksh Vaidya,19,Right,None
+35,3,Neil Pandey,28,Left,Left-arm orthodox
+36,3,Ayaan Qureshi,52,Right,None
+37,3,Kartik Shukla,88,Right,Right-arm fast
+38,3,Parth Dubey,3,Right,Leg spin
+39,3,Tanishq Rawat,67,Left,Left-arm fast
+40,3,Siddhant Rathi,36,Right,Off spin
+41,3,Eshan Tomar,20,Left,None
+42,3,Harit Sharma,41,Right,Right-arm medium
+43,3,Raghav Menon,13,Right,None
+44,3,Viraj Thakur,90,Right,Right-arm fast
+45,3,Sahil Dube,1,Left,None
+46,4,Anay Gupta,22,Right,None
+47,4,Madhav Iyer,31,Left,None
+48,4,Tejas Nigam,15,Right,Right-arm medium
+49,4,Rishit Batra,49,Right,None
+50,4,Ojas Choudhary,57,Left,Left-arm orthodox
+51,4,Utkarsh Sengar,29,Right,None
+52,4,Pratyush Dubey,86,Right,Right-arm fast
+53,4,Aarush Khandelwal,40,Right,Leg spin
+54,4,Yuvraj Panwar,76,Left,Left-arm fast
+55,4,Mihir Chhabra,25,Right,Off spin
+56,4,Nakul Bedi,38,Left,None
+57,4,Arnav Suri,43,Right,Right-arm medium
+58,4,Hriday Vohra,47,Right,None
+59,4,Shaan Oberoi,82,Right,Right-arm fast
+60,4,Keshav Lal,59,Left,None
